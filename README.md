@@ -5,6 +5,7 @@
 - 📫 How to reach me. simon.faksvag@gmail.com
 - 😄 Pronouns: Spirit Penguin
 - ⚡ Fun fact: MonkeyDonkeyDuck
+- :brain: I know how to solve a 3x3 Rubiks cube
 
 <!---
 LurF43nDT/LurF43nDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
